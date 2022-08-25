@@ -128,23 +128,7 @@ To get a local copy up and running follow these steps:
   
   
 
-### Installation
 
-1. Get a API Keys
-2. Clone the repo
-   ```sh
-   git clone https://github.com/username/project.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install next react react-dom
-   ```
-4. Enter your API keys in the follow files
-   * `/Scrapers/env_vars.py`
-   * `/Infrastructure/Web/app/.env`
-
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
